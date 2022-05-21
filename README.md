@@ -1,16 +1,25 @@
-# CSC317-JavaScript-Game
-This is an individual assignment.  This assignment is in JavaScript in a web browser page.  There are no specifications other than it be a game of your choice.  10% of the grade will be based on the creativity of the game.  Tic-Tac-Toe would be the base of 0 for creativity.  You cannot use Javascript stacks or frameworks, the goal it to learn JavaScript.
+# JavaScript-Game: Conception Time! 
 
-The submission will be your github with all the files necessary to run your game.  A writeup that describes your project/game, including how to play, rules, etc.  The write-up should also include any issues and how you resolved them.  Finally take a short video or screen recording of you playing the game.  You must also submit the writeup in iLearn.
+Github ID: atrixatr
 
-### **Rubric**
+Game Description:
 
-| Grade Item        | Grade Points                                |
-|:------------------|--------------------------------------------:|
-| Proper name, ID, and GitHub ID in writeup  | 2                                           |
-| Layout and appearance of Game | 15                                          |
-| Correctness of JavaScript     | 35                                           |
-| Creativity of the Game     | 10                                           |
-| Playability of the Game     | 20                                           |
-| Code Comments     | 10                                           |
-| Writeup           | 8 (Description, Game Rules, Sample Output) |
+While a random couple is “wrestling” under the sheets, you suddenly find yourself in a place you’ve never seen before…
+
+You are a lone sperm cell, and you have one objective: 
+Get to the egg and have a chance of living life.
+
+Unfortunately, there are obstacles blocking your way, becoming tighter the farther you travel. But with your tail, you have the ability to swim and maneuver past these annoying obstacles. If you manage to get past all 20 obstacles, you’ll reach the egg and win!
+
+Controls:
+Tap your left mouse button to make your sperm swim upwards in a ‘bouncy’ like motion. That’s it.
+
+Rules: 
+-Swim your way to the egg while avoiding obstacles!
+-You can’t touch the pillars of flesh, nor the ground, or else you die.
+-The pillars will slowly close tighter as time goes on, making the game slightly harder the longer you live.
+-You need to get past 20 of these pillars before you reach the egg.
+-When you reach the egg, you win!
+
+
+Building the game:
