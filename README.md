@@ -20,6 +20,3 @@ Rules:
 -The pillars will slowly close tighter as time goes on, making the game slightly harder the longer you live.
 -You need to get past 20 of these pillars before you reach the egg.
 -When you reach the egg, you win!
-
-
-Building the game:
